@@ -1,0 +1,68 @@
+unit Contratos;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Data.DB, Vcl.Grids, Vcl.DBGrids,
+  Vcl.StdCtrls, Vcl.Mask, Vcl.Buttons;
+
+type
+  TFrmContratos = class(TForm)
+    Label1: TLabel;
+    Label2: TLabel;
+    Label3: TLabel;
+    Label4: TLabel;
+    Label5: TLabel;
+    Label6: TLabel;
+    Label7: TLabel;
+    Label8: TLabel;
+    Label9: TLabel;
+    Label10: TLabel;
+    Label11: TLabel;
+    Label12: TLabel;
+    Label13: TLabel;
+    Label14: TLabel;
+    Label15: TLabel;
+    Label16: TLabel;
+    Label17: TLabel;
+    SpeedButton1: TSpeedButton;
+    SpeedButton2: TSpeedButton;
+    SpeedButton3: TSpeedButton;
+    SpeedButton4: TSpeedButton;
+    SpeedButton6: TSpeedButton;
+    rdNome: TRadioButton;
+    rdCPF: TRadioButton;
+    txtBuscarNome: TEdit;
+    Edit1: TEdit;
+    MaskEdit1: TMaskEdit;
+    Edit4: TEdit;
+    MaskEdit2: TMaskEdit;
+    MaskEdit3: TMaskEdit;
+    Edit2: TEdit;
+    MaskEdit4: TMaskEdit;
+    MaskEdit5: TMaskEdit;
+    Edit3: TEdit;
+    ComboBox1: TComboBox;
+    Edit5: TEdit;
+    Edit6: TEdit;
+    Edit8: TEdit;
+    MaskEdit6: TMaskEdit;
+    MaskEdit7: TMaskEdit;
+    gridContratos: TDBGrid;
+    Edit7: TEdit;
+    Email: TLabel;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  FrmContratos: TFrmContratos;
+
+implementation
+
+{$R *.dfm}
+
+end.

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/06/02 19:14:05.000.245,=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/02 19:14:34.000.552,C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Login.dfm=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/06/02 19:14:34.000.552,C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Login.pas=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/02 19:14:40.000.506,C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\GSM.dproj=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/06/02 21:57:57.000.627,=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Unit1.pas</Transaction>
+    <Transaction>2022/06/02 21:58:13.000.924,C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Menu.pas=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Unit1.pas</Transaction>
+    <Transaction>2022/06/02 21:58:13.000.924,C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Menu.dfm=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Unit1.dfm</Transaction>
+    <Transaction>2022/06/03 20:26:01.000.183,=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Unit1.pas</Transaction>
+    <Transaction>2022/06/03 20:26:19.000.544,C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Unit1.pas=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Usuarios.pas</Transaction>
+    <Transaction>2022/06/03 20:26:19.000.544,C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Unit1.dfm=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Usuarios.dfm</Transaction>
+    <Transaction>2022/06/03 20:45:42.000.468,C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Usuarios.dfm=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Cadastros\Usuarios.dfm</Transaction>
+    <Transaction>2022/06/03 20:45:42.000.468,C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Usuarios.pas=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Cadastros\Usuarios.pas</Transaction>
+    <Transaction>2022/06/03 20:47:43.000.106,=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Unit1.pas</Transaction>
+    <Transaction>2022/06/03 20:48:00.000.981,C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Unit1.pas=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Cadastros\Funcionarios.pas</Transaction>
+    <Transaction>2022/06/03 20:48:00.000.981,C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Unit1.dfm=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Cadastros\Funcionarios.dfm</Transaction>
+    <Transaction>2022/06/03 20:48:47.000.305,=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Unit2.pas</Transaction>
+    <Transaction>2022/06/03 20:49:03.000.456,C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Unit2.dfm=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Clientes.dfm</Transaction>
+    <Transaction>2022/06/03 20:49:03.000.456,C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Unit2.pas=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Clientes.pas</Transaction>
+    <Transaction>2022/06/03 20:49:24.000.051,C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Clientes.dfm=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Cadastros\Clientes.dfm</Transaction>
+    <Transaction>2022/06/03 20:49:24.000.051,C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Clientes.pas=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Cadastros\Clientes.pas</Transaction>
+    <Transaction>2022/06/03 21:18:39.000.057,C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Cadastros\Funcionarios.pas=</Transaction>
+    <Transaction>2022/06/03 21:24:39.000.074,=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Unit1.pas</Transaction>
+    <Transaction>2022/06/03 21:24:58.000.632,C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Unit1.pas=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Cadastros\Funcionarios.pas</Transaction>
+    <Transaction>2022/06/03 21:24:58.000.632,C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Unit1.dfm=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Cadastros\Funcionarios.dfm</Transaction>
+    <Transaction>2022/06/03 23:01:04.000.693,=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Unit1.pas</Transaction>
+    <Transaction>2022/06/03 23:01:22.000.417,C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Unit1.dfm=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Cadastros\Cargos.dfm</Transaction>
+    <Transaction>2022/06/03 23:01:22.000.417,C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Unit1.pas=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Cadastros\Cargos.pas</Transaction>
+    <Transaction>2022/06/03 23:40:55.000.734,=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Unit1.pas</Transaction>
+    <Transaction>2022/06/03 23:42:01.000.720,C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Unit1.pas=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Cadastros\Equipamentos.pas</Transaction>
+    <Transaction>2022/06/03 23:42:01.000.720,C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Unit1.dfm=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Cadastros\Equipamentos.dfm</Transaction>
+    <Transaction>2022/06/04 00:13:41.000.863,=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Unit1.pas</Transaction>
+    <Transaction>2022/06/04 00:16:48.000.791,C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Unit1.dfm=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\TiposDeServico.dfm</Transaction>
+    <Transaction>2022/06/04 00:16:48.000.791,C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Unit1.pas=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\TiposDeServico.pas</Transaction>
+    <Transaction>2022/06/04 00:17:01.000.157,C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\TiposDeServico.pas=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Cadastros\TiposDeServico.pas</Transaction>
+    <Transaction>2022/06/04 00:17:01.000.157,C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\TiposDeServico.dfm=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Cadastros\TiposDeServico.dfm</Transaction>
+    <Transaction>2022/06/04 17:25:15.000.394,=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Unit1.pas</Transaction>
+    <Transaction>2022/06/04 17:25:47.000.995,C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Unit1.pas=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Modulo.pas</Transaction>
+    <Transaction>2022/06/04 17:25:47.000.995,C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Unit1.dfm=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Modulo.dfm</Transaction>
+    <Transaction>2022/06/04 23:12:08.000.623,=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Unit1.pas</Transaction>
+    <Transaction>2022/06/04 23:12:46.000.090,C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Cadastros\Contratos.dfm=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Unit1.dfm</Transaction>
+    <Transaction>2022/06/04 23:12:46.000.090,C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Cadastros\Contratos.pas=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Unit1.pas</Transaction>
+    <Transaction>2022/06/05 01:37:03.000.330,C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Cadastros\Contratos.pas=</Transaction>
+    <Transaction>2022/06/05 01:56:23.000.633,=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Unit1.pas</Transaction>
+    <Transaction>2022/06/05 01:56:46.000.221,C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Contratos.pas=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Unit1.pas</Transaction>
+    <Transaction>2022/06/05 01:56:46.000.221,C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Contratos.dfm=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Unit1.dfm</Transaction>
+    <Transaction>2022/06/05 01:57:36.000.233,C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Cadastros\Contratos.pas=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Contratos.pas</Transaction>
+    <Transaction>2022/06/05 01:57:36.000.233,C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Cadastros\Contratos.dfm=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Contratos.dfm</Transaction>
+    <Transaction>2022/06/05 17:57:33.000.259,=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Unit3.pas</Transaction>
+    <Transaction>2022/06/05 18:01:08.000.966,C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Unit3.pas=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Graficos\Graficos.pas</Transaction>
+    <Transaction>2022/06/05 18:01:08.000.966,C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Unit3.dfm=C:\Users\Estudo\Documents\Embarcadero\Studio\Projects\Gestão de Obras Win\Graficos\Graficos.dfm</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Cadastros"/>
+    <File Path="Cadastros\Cargos.pas"/>
+    <File Path="Cadastros\Cargos.dfm"/>
+    <File Path="Cadastros\Clientes.pas"/>
+    <File Path="Cadastros\Clientes.dfm"/>
+    <File Path="Cadastros\Contratos.pas"/>
+    <File Path="Cadastros\Contratos.dfm"/>
+    <File Path="Cadastros\Equipamentos.pas"/>
+    <File Path="Cadastros\Equipamentos.dfm"/>
+    <File Path="Cadastros\Funcionarios.pas"/>
+    <File Path="Cadastros\Funcionarios.dfm"/>
+    <File Path="Cadastros\TiposDeServico.pas"/>
+    <File Path="Cadastros\TiposDeServico.dfm"/>
+    <File Path="Cadastros\Usuarios.pas"/>
+    <File Path="Cadastros\Usuarios.dfm"/>
+    <File Path="Graficos"/>
+    <File Path="Graficos\Graficos.pas"/>
+    <File Path="Graficos\Graficos.dfm"/>
+    <File Path="Login.pas"/>
+    <File Path="Login.dfm"/>
+    <File Path="Menu.pas"/>
+    <File Path="Menu.dfm"/>
+    <File Path="Modulo.pas"/>
+    <File Path="Modulo.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
